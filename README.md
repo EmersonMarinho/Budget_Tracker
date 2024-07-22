@@ -12,6 +12,18 @@ The Budget Tracker is a comprehensive tool designed to help you manage your fina
 
 This tool is perfect for anyone looking to gain better control over their personal finances.
 
+## Technologies Used
+
+- **Next.js**: A React framework for server-rendered or statically-exported React apps.
+- **Prisma ORM**: An ORM (Object-Relational Mapping) tool for database access with TypeScript support.
+- **SQLite**: A lightweight, disk-based database used for local development.
+- **Postgres**: A powerful, open-source object-relational database system used in production.
+- **ShadCN UI**: A user interface component library.
+- **React Hook Form**: A library for managing form state in React.
+- **Zod**: A TypeScript-first schema declaration and validation library.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **TanStack Query**: Powerful data-fetching and state management for React.
+
 ---
 
 # Rastreador de Orçamento
@@ -27,3 +39,15 @@ O Rastreador de Orçamento é uma ferramenta abrangente projetada para ajudá-lo
 - **Seção de Gerenciamento**: Altere a moeda padrão e exclua categorias conforme necessário.
 
 Esta ferramenta é perfeita para quem deseja ter um melhor controle sobre suas finanças pessoais.
+
+## Tecnologias Utilizadas
+
+- **Next.js**: Um framework React para aplicativos renderizados no servidor ou exportados estaticamente.
+- **Prisma ORM**: Uma ferramenta ORM (Mapeamento Objeto-Relacional) para acesso a banco de dados com suporte a TypeScript.
+- **SQLite**: Um banco de dados leve baseado em disco usado para desenvolvimento local.
+- **Postgres**: Um poderoso sistema de banco de dados objeto-relacional de código aberto usado em produção.
+- **ShadCN UI**: Uma biblioteca de componentes de interface do usuário.
+- **React Hook Form**: Uma biblioteca para gerenciar o estado de formulários em React.
+- **Zod**: Uma biblioteca de declaração e validação de esquemas TypeScript-first.
+- **Tailwind CSS**: Um framework CSS utilitário-first para desenvolvimento rápido de interfaces.
+- **TanStack Query**: Ferramenta poderosa de busca de dados e gerenciamento de estado para React.
